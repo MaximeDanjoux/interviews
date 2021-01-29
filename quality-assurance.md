@@ -26,11 +26,11 @@ The product manager and the design lead provide you with the following **require
 *Hint: the requirements may not be complete, so consider cases that could have been left out.*
 
 ### Deliverable
+You are asked to deliver:
+1. **A high-level test plan** for the calculator app
+2. The **necessary test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence. 
 
-1. You are asked to **create a high-level test plan** for the calculator app
-2. Write the **necessary test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence. 
-
-Please complete the above two tasks as your take home assignment. We don’t expect you to take longer than 4 hours to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. When you’re done, submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e). Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
+Please complete the above **two tasks** as your take home assignment. We don’t expect you to take longer than 4 hours to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. When you’re done, submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e). Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
 
 
 
